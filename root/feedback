@@ -1,0 +1,12 @@
++
+css html yapısı iyi.
+
+class isimleri iyileştirilse iyi olur.
+
+buttonları row olarak ayırmak değil de flexe genişlik verilerek yan yana dizilmesi.
+
+eval kullanma.
+
+js/
+
+https://www.freecodecamp.org/news/event-delegation-javascript/
